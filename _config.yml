@@ -1,5 +1,6 @@
 # _config.yml
-url: ""
-baseurl: ""
+theme: jekyll-theme-minimal
+title: DAM framework homepage
+description: Framework providing Detection & Attribution modelling suggestions for user's case study
 plugins:
   - jekyll-csv
