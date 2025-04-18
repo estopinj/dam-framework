@@ -1,0 +1,5 @@
+# _config.yml
+url: ""
+baseurl: ""
+plugins:
+  - jekyll-csv

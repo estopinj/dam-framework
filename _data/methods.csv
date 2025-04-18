@@ -1,0 +1,3 @@
+title,categories,data_type,language,description
+Difference-in-Differences,Attribution,Econometrics,Panel,"Compares trends over time between treated and control groups."
+Before-After-Control-Impact (BACI),Detection,Cross-sectional,R,"Assesses impact using before-after data from treatment and control sites."
